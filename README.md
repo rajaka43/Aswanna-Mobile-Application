@@ -1,12 +1,9 @@
 # Aswanna-Mobile-Application
 Welcome Screen
 ![142468128-7914206c-7d9e-444a-bae5-17eea4c587b0](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/0407f4b3-8292-465e-8f6e-edd38fe53534)
-![142468144-9a03a522-7e12-4ad4-abad-ff481149cc70](https://github.com/rajaka43/Aswanna-Mobile
-![142774985-6d51cb2f-40ff-45fa-b9be-ca5e439871dd](https://github.com/rajaka43/Aswanna-Mobile
 ![142775021-4f79d041-7951-4f90-a2b6-636223a165e4](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/3955a5c8-7ccc-4eae-b568-0a284ab74e02)
 -Application/assets/139100206/bc35d677-ea84-497d-acfe-aaff476407e0)
 
-![142759787-c267638c-5c99-446a-8442-8040ead96f02](https://github.com/rajaka43/Aswanna-Mobile
 ![142760022-197f09ce-9029-4a7c-acb6-c3804ad1b700](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/6073e1da-7fb2-4634-8312-20790f688860)
 -Application/assets/139100206/71e3b29a-01fd-4b2f-9b5d-9ea09b91f382)
 ![142759973-6a7e6574-d0cc-4e64-9d97-fedb205ca26a](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/c1d571f7-0c4e-4d3d-b16c-1c5760305261)
