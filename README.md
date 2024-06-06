@@ -1,5 +1,5 @@
 # Aswanna-Mobile-Application
-<img src=![142468128-7914206c-7d9e-444a-bae5-17eea4c587b0](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/0407f4b3-8292-465e-8f6e-edd38fe53534)
+![142468128-7914206c-7d9e-444a-bae5-17eea4c587b0](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/0407f4b3-8292-465e-8f6e-edd38fe53534)
 ![142775021-4f79d041-7951-4f90-a2b6-636223a165e4](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/3955a5c8-7ccc-4eae-b568-0a284ab74e02)
 
 ![142760022-197f09ce-9029-4a7c-acb6-c3804ad1b700](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/6073e1da-7fb2-4634-8312-20790f688860)
@@ -39,7 +39,7 @@
 
 ![142468157-90ab130b-1221-4f48-ac78-c0dfa3b1d6a7](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/59fd507e-abc4-45e2-b2dc-d6531ceacab2)
 ![142468172-81ca6410-fe52-4624-8ed5-4aeba6e3519c](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/fc6fbc82-6452-404f-a328-07020c0dd279)
- width="200" height="200" />
+ 
 
 ![142468152-83921e4d-7c62-46ed-8b79-a75e2a6ef24a](https://github.com/rajaka43/Aswanna-Mobile-Application/assets/139100206/05a0b8fa-3ef5-4f68-b0a0-925534bf2773)
 
